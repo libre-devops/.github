@@ -4,7 +4,6 @@ Welcome to our friendly name portfolio. We are a community-driven organization f
 
 - Discover more about us on our [official website](https://libredevops.org) 🌐
 - We believe in the power of collaborative learning and open source contributions 🤝
-- 📩 Feel free to reach us at contact@libredevops.org
 
 <h2>🛠 Our Toolkit</h2>
 
@@ -28,11 +27,3 @@ Welcome to our friendly name portfolio. We are a community-driven organization f
 [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)](https://www.redhat.com/)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-ww/microsoft-365)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-
-<h2>🏆 Github Stats</h2>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=libredevops&theme=radical&show_icons=true" alt="Libre DevOps's Github Stats" width="75%"/><br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=libredevops&theme=dark" width="75%"><br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=libredevops&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
-</p>
