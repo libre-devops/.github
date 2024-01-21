@@ -4,7 +4,7 @@ Welcome to our friendly name portfolio. We are a community-driven organization f
 
 - Discover more about us on our [official website](https://libredevops.org) 🌐
 - We believe in the power of collaborative learning and open source contributions 🤝
-- We work in partnership with [CyberScot](https://github.com/cyber-scot).  Please follow them as well as ourselves🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- We work in partnership with [CyberScot](https://github.com/cyber-scot).  Please follow them as well as ourselves 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
